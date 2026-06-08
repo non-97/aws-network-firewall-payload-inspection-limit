@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/aws-network-firewall-payload-size.ts",
+  "app": "node_modules/.bin/ts-node --prefer-ts-exts bin/aws-network-firewall-payload-size.ts",
   "watch": {
     "include": [
       "**"
